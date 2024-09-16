@@ -1,0 +1,12 @@
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.csproj.AssemblyReference.cache
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.AssemblyInfoInputs.cache
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.AssemblyInfo.cs
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.csproj.CoreCompileInputs.cache
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\bin\Debug\net8.0\ResultPattern.OneOf.Application.deps.json
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\bin\Debug\net8.0\ResultPattern.OneOf.Application.dll
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\bin\Debug\net8.0\ResultPattern.OneOf.Application.pdb
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.dll
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\refint\ResultPattern.OneOf.Application.dll
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ResultPattern.OneOf.Application.pdb
+C:\Estudos\OneOf\ResultPattern.OneOf\ResultPattern.OneOf.Application\obj\Debug\net8.0\ref\ResultPattern.OneOf.Application.dll
